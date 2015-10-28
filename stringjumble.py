@@ -27,7 +27,7 @@ erehT era a wef seuqinhcet ro skcirt taht uoy yam dnif ydnah
 """
 s = str(input("Please enter a string of text (the bigger the better): "))
 
-print("You entered {0}. Now jumble it:".format(s))
+print(str('"You entered {0}. Now jumble it:"'.format(s))
 
 print(s[::-1])
 
